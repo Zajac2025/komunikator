@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace Serwer 
+namespace Klient 
 {
     static class Program
-    {
+    { 
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -14,7 +14,7 @@ namespace Serwer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSerwer());
+            Application.Run(new Klient());
         }
     }
 }

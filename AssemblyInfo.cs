@@ -1,18 +1,18 @@
-﻿using System.Reflection;
+﻿using System.Reflection; 
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Serwer")]
+[assembly: AssemblyTitle("Klient")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Serwer")]
+[assembly: AssemblyProduct("Klient")]
 [assembly: AssemblyCopyright("Copyright ©  2006")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")] 
+[assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dd72d501-1642-4d48-a6b4-c6ecb0d86dd6")]
+[assembly: Guid("cd8ec0b5-3540-49c9-9369-e32abbdc94c6")]
 
 // Version information for an assembly consists of the following four values:
 //
